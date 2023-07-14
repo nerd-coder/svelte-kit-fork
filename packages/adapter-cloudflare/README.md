@@ -2,6 +2,10 @@
 
 [Adapter](https://kit.svelte.dev/docs/building-your-app) for building SvelteKit applications on [Cloudflare Pages](https://developers.cloudflare.com/pages/) with [Workers integration](https://developers.cloudflare.com/pages/platform/functions).
 
+## ⚠️ Warning
+
+This is a temporary package published to used while waiting for this [PR](https://github.com/sveltejs/kit/pull/10214) to merge.
+
 ## Docs
 
 [Docs](https://kit.svelte.dev/docs/adapter-cloudflare)
